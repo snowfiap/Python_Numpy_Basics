@@ -1,1 +1,2 @@
 # Python_Numpy_Basics
+Embark on a journey through the world of numerical computing with my comprehensive Python NumPy course. NumPy, short for Numerical Python, is a fundamental library in the Python ecosystem for numerical computing. It provides a versatile array object, known as numpy.array, which is a multidimensional array that allows efficient storage and manipulation of large datasets. This GitHub repository encapsulates the essence of the course which I learned in MindLuster,showcasing my mastery of NumPy functionalities. 
